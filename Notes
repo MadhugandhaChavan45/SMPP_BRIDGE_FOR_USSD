@@ -1,0 +1,24 @@
+### References
+
+[OpenSmpp - a mature Java library implementing the SMPP protocol](http://opensmpp.org/)
+
+sharepoint :  [mosip docs](https://iiitbac-my.sharepoint.com/:f:/g/personal/karishma_chauhan_iiitb_ac_in/EgaZmmzIjiBMhWtYMIA_XXoBuJUzwwP1P5eiSJsOVMDiQQ?e=SV3bvR)
+
+USSD: [https://www.youtube.com/watch?v=sjOeOCe11X8](https://www.youtube.com/watch?v=sjOeOCe11X8)
+
+[https://stackoverflow.com/questions/347465/what-is-required-to-send-messages-via-ussd](https://stackoverflow.com/questions/347465/what-is-required-to-send-messages-via-ussd)
+
+[https://www.cspsprotocol.com/smpp/](https://www.cspsprotocol.com/smpp/)
+
+SMPP :
+
+-SMPP or Short Message Peer to Peer protocol is an open standard protocol that uses TCP/IP protocol for the transport of protocol messages. Earlier to SMPP, ss7 was the standard protocol for messaging over the GSM network. 
+
+-The SMPP (Short Message Peer-to-Peer) protocol is an open, industry standard protocol designed to provide a flexible data communications interface for the transfer of short message data between External Short Message Entities (ESME), Routing Entities (RE) and Message Centres (MC). It is a means by which applications can send and receive SMS messages to and from mobile devices. Applications do this using an SMPP connection to a Short Message Service Center (SMSC), [SMS gateway](https://smpp.org/sms-gateway.html), SMPP gateway or hub
+
+- The SMPP (Short Message Peer-to-Peer Protocol) provides you with an environment to send and receive short messages.
+- U*[SSD](http://www.cspsprotocol.com/ussd/)* and SMS both can use SMPP. A messaging application can be developed using SMPP.
+- SMPP is an open standard. Two peers can develop applications independently.
+- 
+
+USSD:
